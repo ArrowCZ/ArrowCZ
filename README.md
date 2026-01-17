@@ -4,3 +4,5 @@
 <a href="https://github.com/Pranesh-2005/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ArrowCZ&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
+<br>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ArrowCZ&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
